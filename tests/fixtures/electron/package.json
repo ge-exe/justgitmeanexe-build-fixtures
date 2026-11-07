@@ -1,0 +1,9 @@
+{
+  "name": "justgitmeanexe-electron-fixture",
+  "version": "1.0.0",
+  "description": "Owned minimal Electron application for Windows packaging regression tests",
+  "private": true,
+  "license": "MIT",
+  "main": "main.cjs",
+  "devDependencies": { "electron": "45.2.3" }
+}
